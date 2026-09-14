@@ -23,7 +23,7 @@ Longhorn eVTOL gives UT students hands-on experience across the whole life of an
 Development is phased:
 
 ```
-Subscale unmanned      1/3 scale coaxial X8, 6S, 17 in props, 9.6 kg  ← building now
+Subscale unmanned      1/3 scale coaxial X8, 6S, 18 in props, 9.4 kg  ← building now
 Full-scale tethered    Full vehicle, no occupant, restrained then tethered
 Piloted                Low altitude, day VFR, off campus, after Article X sign-off
 ```
