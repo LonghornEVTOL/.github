@@ -20,7 +20,7 @@
 
 Longhorn eVTOL gives UT students hands-on experience across the whole life of an aircraft: requirements, design, analysis, fabrication, integration, and flight test. We are working toward a **single-occupant seated multirotor** capable of safe, low-altitude piloted flight.
 
-Development is phased, and nothing moves forward until it passes a design and safety review:
+Development is phased:
 
 ```
 Subscale unmanned      1/3 scale coaxial X8, 6S, 15 in props       ← starting here
@@ -32,7 +32,7 @@ Piloted                Low altitude, day VFR, off campus, after Article X sign-o
 
 ## The vehicle
 
-Piloted flight is planned under **14 CFR Part 103**: under 254 lb empty weight with batteries, one occupant, daylight, away from congested areas. That weight limit drives every design decision.
+Piloted flight is planned under **14 CFR Part 103**: under 254 lb empty weight with batteries, one occupant, daylight, away from congested areas. 
 
 | | Baseline v1 (preliminary) |
 | --- | --- |
@@ -46,17 +46,6 @@ Piloted flight is planned under **14 CFR Part 103**: under 254 lb empty weight w
 | Recovery | Galaxy GRS 3 270 ballistic parachute |
 
 Full sizing, parts, sources, and open risks: [`docs/vehicle/baseline.md`](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md).
-
----
-
-## Safety first, in writing
-
-Our constitution's Article X cannot be waived by any vote:
-
-- The **Chief Safety Officer can halt any operation**, and no officer, board, or membership vote can override it.
-- **Design authority and stop authority belong to different people**, always.
-- **Custom boards and FPGA logic** in a flight-critical path need design review, current-limited bring-up, qualification, and run time on the unmanned article before anyone flies on them.
-- **Nine conditions**, including FAA basis, demonstrated motor-out response, a working E-stop and parachute, insurance, and four written sign-offs, come before any piloted flight.
 
 ---
 
