@@ -23,10 +23,16 @@ Longhorn eVTOL gives UT students hands-on experience across the whole life of an
 Development is phased:
 
 ```
-Subscale unmanned      1/3 scale coaxial X8, 6S, 15 in props       ← starting here
+Subscale unmanned      1/3 scale coaxial X8, 6S, 17 in props, 9.6 kg  ← building now
 Full-scale tethered    Full vehicle, no occupant, restrained then tethered
 Piloted                Low altitude, day VFR, off campus, after Article X sign-off
 ```
+
+---
+
+## Current phase
+
+An unmanned **1/3-scale coaxial octocopter** that mirrors the full-scale vehicle: same layout, 4-pack power architecture, DroneCAN motor bus, safety monitor, and recovery system, with a 2.7 kg ballast in the pilot's seat. [Read the design](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/subscale-demonstrator.md).
 
 ---
 
