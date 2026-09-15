@@ -76,7 +76,7 @@ Current work ranges from a 6S buck converter board and a thrust stand data logge
 
 Open to UT Austin students of any major and any experience level. **No dues, ever.** We recruit every fall and spring through a short application and a 20 minute interview, scored on interest, commitment, and contribution. Admitted members finish safety onboarding and three work sessions to join a team and get shop access.
 
-**[Apply at longhorn-evtol.vercel.app/apply](https://longhorn-evtol.vercel.app/apply)**
+Applications open at the start of each fall and spring semester. **[See how to join](https://longhorn-evtol.vercel.app/#join)**
 
 ---
 
