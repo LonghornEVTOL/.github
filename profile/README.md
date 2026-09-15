@@ -10,7 +10,7 @@
 [![Configuration](https://img.shields.io/badge/config-coaxial%20X8-555.svg)](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md)
 [![University](https://img.shields.io/badge/university-UT%20Austin-bf5700.svg)](https://utexas.edu)
 
-[Website](https://longhorn-evtol.vercel.app) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Safety requirements](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/safety/vehicle-safety-requirements.md)
+[Website](https://longhorn-evtol.vercel.app) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Teams and projects](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/teams.md) · [Safety requirements](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/safety/vehicle-safety-requirements.md)
 
 </div>
 
@@ -67,7 +67,7 @@ Full sizing, parts, sources, and open risks: [`docs/vehicle/baseline.md`](https:
 
 **Mechanical Design** · **Electrical and Power** · **Software and Avionics** · **Manufacturing and Operations** · **Flight Test and Range** · **Systems Engineering**
 
-Current work ranges from a 6S buck converter board and a thrust stand data logger to a custom 18S ESC, the FPGA safety monitor, and the full-scale mass budget. See the [project list](https://github.com/LonghornEVTOL/longhorn-evtol#projects).
+Current work ranges from a 6S buck converter board and a thrust stand data logger to a custom 18S ESC, the FPGA safety monitor, and the full-scale mass budget. See every team, sub-team, and project in [Teams and Projects](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/teams.md).
 
 ---
 
