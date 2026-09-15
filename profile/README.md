@@ -10,7 +10,7 @@
 [![Configuration](https://img.shields.io/badge/config-coaxial%20X8-555.svg)](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md)
 [![University](https://img.shields.io/badge/university-UT%20Austin-bf5700.svg)](https://utexas.edu)
 
-[Website](https://longhorn-evtol.vercel.app) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Join the team](#join-us)
+[Website](https://longhorn-evtol.vercel.app) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Safety requirements](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/safety/vehicle-safety-requirements.md)
 
 </div>
 
@@ -25,7 +25,7 @@ Development is phased:
 ```
 Subscale unmanned      1/3 scale coaxial X8, 6S, 18 in props, 9.4 kg  ← building now
 Full-scale tethered    Full vehicle, no occupant, restrained then tethered
-Piloted                Low altitude, day VFR, off campus, after Article X sign-off
+Piloted                Low altitude, day VFR, off campus, after every safety requirement is met
 ```
 
 ---
@@ -60,23 +60,20 @@ Full sizing, parts, sources, and open risks: [`docs/vehicle/baseline.md`](https:
 | Repository | Description |
 | --- | --- |
 | [`longhorn-evtol`](https://github.com/LonghornEVTOL/longhorn-evtol) | Main project repo: vehicle baseline, team folders, projects, and docs |
-| [`website`](https://github.com/LonghornEVTOL/website) | Source for [longhorn-evtol.vercel.app](https://longhorn-evtol.vercel.app) |
 
 ---
 
 ## Teams
 
-**Mechanical Design** · **Electrical and Power** · **Software and Avionics** · **Manufacturing and Operations** · **Flight Test and Range** · **Systems Engineering** · **Business and Outreach**
+**Mechanical Design** · **Electrical and Power** · **Software and Avionics** · **Manufacturing and Operations** · **Flight Test and Range** · **Systems Engineering**
 
 Current work ranges from a 6S buck converter board and a thrust stand data logger to a custom 18S ESC, the FPGA safety monitor, and the full-scale mass budget. See the [project list](https://github.com/LonghornEVTOL/longhorn-evtol#projects).
 
 ---
 
-## Join us
+## Follow the build
 
-Open to UT Austin students of any major and any experience level. **No dues, ever.** We recruit every fall and spring through a short application and a 20 minute interview, scored on interest, commitment, and contribution. Admitted members finish safety onboarding and three work sessions to join a team and get shop access.
-
-Applications open at the start of each fall and spring semester. **[See how to join](https://longhorn-evtol.vercel.app/#join)**
+Design docs, parts, and test plans are all in [`longhorn-evtol`](https://github.com/LonghornEVTOL/longhorn-evtol). More at **[longhorn-evtol.vercel.app](https://longhorn-evtol.vercel.app)**.
 
 ---
 
