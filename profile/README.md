@@ -10,7 +10,7 @@
 [![Configuration](https://img.shields.io/badge/config-coaxial%20X8-555.svg)](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md)
 [![University](https://img.shields.io/badge/university-UT%20Austin-bf5700.svg)](https://utexas.edu)
 
-[Website](https://longhorn-evtol.vercel.app) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Teams and projects](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/teams.md) · [Safety requirements](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/safety/vehicle-safety-requirements.md)
+[Website](https://longhorn-evtol.vercel.app) · [Onboarding](https://github.com/LonghornEVTOL/longhorn-evtol/tree/main/docs/onboarding) · [Vehicle baseline](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/vehicle/baseline.md) · [Teams and projects](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/teams.md) · [Safety requirements](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/safety/vehicle-safety-requirements.md)
 
 </div>
 
@@ -68,6 +68,12 @@ Full sizing, parts, sources, and open risks: [`docs/vehicle/baseline.md`](https:
 **Mechanical Design** · **Electrical and Power** · **Software and Avionics** · **Manufacturing and Operations** · **Flight Test and Range** · **Systems Engineering**
 
 Current work ranges from a 6S buck converter board and a thrust stand data logger to a custom 18S ESC, the FPGA safety monitor, and the full-scale mass budget. See every team, sub-team, and project in [Teams and Projects](https://github.com/LonghornEVTOL/longhorn-evtol/blob/main/docs/teams.md).
+
+---
+
+## Start building
+
+Our new-member ladder is public and self-serve: size a 6S to 5 V buck converter by hand, simulate it in LTspice, lay it out in KiCad, then build and measure it. No membership, no account, and nothing to ask us for. Clone the repo and start: **[docs/onboarding](https://github.com/LonghornEVTOL/longhorn-evtol/tree/main/docs/onboarding)**.
 
 ---
 
